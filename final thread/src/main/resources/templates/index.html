@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Urban Security ML Model</title>
+    <style>
+        #progressBar {
+            width: 300px;
+            height: 20px;
+            background-color: #f0f0f0;
+            margin-top: 20px;
+        }
+        #progressBarFill {
+            width: 0%;
+            height: 100%;
+            background-color: #4CAF50;
+            transition: width 0.5s;
+        }
+    </style>
+</head>
+<body>
+<h1>Urban Security ML Model</h1>
+
+<h2>Upload CSV and Train Model</h2>
+<form id="uploadForm" method="post" enctype="multipart/form-data" action="/upload">
+    <input type="file" name="file"/>
+    <input type="number" name="numThreads" min="0" value="0"/>
+    <button type="submit">Upload CSV</button>
+</form>
+
+<div id="progressBar" style="display: none;">
+    <div id="progressBarFill"></div>
+</div>
+<div id="progressText"></div>
+<div id="result"></div>
+
+<h2>Predict Risk</h2>
+<form action="/predict" method="get">
+    <input type="number" name="zone" placeholder="Zone" required>
+    <input type="number" name="time" placeholder="Time" required>
+    <input type="number" name="day" placeholder="Day" required>
+    <button type="submit">Predict</button>
+</form>
+
+<div th:if="${message}">
+    <p th:text="${message}"></p>
+</div>
+
+<div th:if="${risk}">
+    <p>Predicted Risk: <span th:text="${risk}"></span></p>
+</div>
+
+<script src="/js/upload.js"></script>
+</body>
+</html>

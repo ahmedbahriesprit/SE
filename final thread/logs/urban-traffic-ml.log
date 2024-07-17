@@ -1,0 +1,219 @@
+2024-07-16T21:56:50.604+01:00  INFO 96504 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Starting FinalApplication using Java 17.0.11 with PID 96504 (C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread\target\classes started by ahmed in C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread)
+2024-07-16T21:56:50.615+01:00  INFO 96504 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-07-16T21:56:50.674+01:00  INFO 96504 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-16T21:56:50.674+01:00  INFO 96504 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-16T21:56:51.815+01:00  INFO 96504 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2024-07-16T21:56:51.836+01:00  INFO 96504 --- [final] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-16T21:56:51.836+01:00  INFO 96504 --- [final] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-16T21:56:51.914+01:00  INFO 96504 --- [final] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-16T21:56:51.914+01:00  INFO 96504 --- [final] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1240 ms
+2024-07-16T21:56:52.074+01:00  INFO 96504 --- [final] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-07-16T21:56:52.383+01:00  INFO 96504 --- [final] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-16T21:56:52.424+01:00  INFO 96504 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path '/'
+2024-07-16T21:56:52.433+01:00  INFO 96504 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Started FinalApplication in 2.186 seconds (process running for 5.616)
+2024-07-16T22:03:49.838+01:00  INFO 96504 --- [final] [http-nio-8081-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-16T22:03:49.838+01:00  INFO 96504 --- [final] [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-16T22:03:49.839+01:00  INFO 96504 --- [final] [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-07-16T22:06:34.871+01:00  WARN 96504 --- [final] [http-nio-8081-exec-8] com.github.fommil.netlib.ARPACK          : Failed to load implementation from: com.github.fommil.netlib.NativeSystemARPACK
+2024-07-16T22:06:34.944+01:00  INFO 96504 --- [final] [http-nio-8081-exec-8] com.github.fommil.jni.JniLoader          : successfully loaded C:\Users\ahmed\AppData\Local\Temp\jniloader11760153985864671561netlib-native_ref-win-x86_64.dll
+2024-07-16T22:08:21.115+01:00  INFO 110672 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Starting FinalApplication using Java 17.0.11 with PID 110672 (C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread\target\classes started by ahmed in C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread)
+2024-07-16T22:08:21.126+01:00  INFO 110672 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-07-16T22:08:21.199+01:00  INFO 110672 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-16T22:08:21.200+01:00  INFO 110672 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-16T22:08:22.372+01:00  INFO 110672 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2024-07-16T22:08:22.392+01:00  INFO 110672 --- [final] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-16T22:08:22.393+01:00  INFO 110672 --- [final] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-16T22:08:22.528+01:00  INFO 110672 --- [final] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-16T22:08:22.529+01:00  INFO 110672 --- [final] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1329 ms
+2024-07-16T22:08:22.704+01:00  INFO 110672 --- [final] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-07-16T22:08:23.002+01:00  INFO 110672 --- [final] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-16T22:08:23.042+01:00  INFO 110672 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path '/'
+2024-07-16T22:08:23.052+01:00  INFO 110672 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Started FinalApplication in 2.484 seconds (process running for 3.398)
+2024-07-16T22:08:43.570+01:00  INFO 110672 --- [final] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-16T22:08:43.570+01:00  INFO 110672 --- [final] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-16T22:08:43.571+01:00  INFO 110672 --- [final] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-07-16T22:09:20.703+01:00  WARN 110672 --- [final] [http-nio-8081-exec-4] com.github.fommil.netlib.ARPACK          : Failed to load implementation from: com.github.fommil.netlib.NativeSystemARPACK
+2024-07-16T22:09:20.808+01:00  INFO 110672 --- [final] [http-nio-8081-exec-4] com.github.fommil.jni.JniLoader          : successfully loaded C:\Users\ahmed\AppData\Local\Temp\jniloader13457192351506755551netlib-native_ref-win-x86_64.dll
+2024-07-16T22:14:35.773+01:00  INFO 108932 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Starting FinalApplication using Java 17.0.11 with PID 108932 (C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread\target\classes started by ahmed in C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread)
+2024-07-16T22:14:35.773+01:00  INFO 108932 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-07-16T22:14:35.833+01:00  INFO 108932 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-16T22:14:35.833+01:00  INFO 108932 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-16T22:14:36.651+01:00  INFO 108932 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2024-07-16T22:14:36.664+01:00  INFO 108932 --- [final] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-16T22:14:36.665+01:00  INFO 108932 --- [final] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-16T22:14:36.720+01:00  INFO 108932 --- [final] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-16T22:14:36.720+01:00  INFO 108932 --- [final] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 885 ms
+2024-07-16T22:14:36.823+01:00  INFO 108932 --- [final] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-07-16T22:14:37.074+01:00  INFO 108932 --- [final] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-16T22:14:37.099+01:00  INFO 108932 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path '/'
+2024-07-16T22:14:37.107+01:00  INFO 108932 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Started FinalApplication in 1.751 seconds (process running for 2.414)
+2024-07-16T22:14:44.556+01:00  INFO 108932 --- [final] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-16T22:14:44.557+01:00  INFO 108932 --- [final] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-16T22:14:44.558+01:00  INFO 108932 --- [final] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-07-16T22:15:10.718+01:00  WARN 108932 --- [final] [http-nio-8081-exec-3] com.github.fommil.netlib.ARPACK          : Failed to load implementation from: com.github.fommil.netlib.NativeSystemARPACK
+2024-07-16T22:15:10.805+01:00  INFO 108932 --- [final] [http-nio-8081-exec-3] com.github.fommil.jni.JniLoader          : successfully loaded C:\Users\ahmed\AppData\Local\Temp\jniloader7200070780339550569netlib-native_ref-win-x86_64.dll
+2024-07-16T22:16:37.405+01:00 ERROR 108932 --- [final] [http-nio-8081-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request] with root cause
+
+java.io.EOFException: null
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.fillReadBuffer(NioEndpoint.java:1270) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.read(NioEndpoint.java:1181) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.fill(Http11InputBuffer.java:789) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer$SocketInputBuffer.doRead(Http11InputBuffer.java:1195) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.filters.IdentityInputFilter.doRead(IdentityInputFilter.java:97) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.doRead(Http11InputBuffer.java:244) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.Request.doRead(Request.java:642) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.InputBuffer.realReadBytes(InputBuffer.java:303) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.InputBuffer.checkByteBufferEof(InputBuffer.java:615) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.InputBuffer.read(InputBuffer.java:358) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.CoyoteInputStream.read(CoyoteInputStream.java:132) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:132) ~[na:na]
+	at org.apache.tomcat.util.http.fileupload.util.LimitedInputStream.read(LimitedInputStream.java:132) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.http.fileupload.MultipartStream$ItemInputStream.makeAvailable(MultipartStream.java:953) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.http.fileupload.MultipartStream$ItemInputStream.read(MultipartStream.java:857) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:132) ~[na:na]
+	at org.apache.tomcat.util.http.fileupload.util.LimitedInputStream.read(LimitedInputStream.java:132) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:106) ~[na:na]
+	at org.apache.tomcat.util.http.fileupload.util.Streams.copy(Streams.java:96) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.http.fileupload.FileUploadBase.parseRequest(FileUploadBase.java:292) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.Request.parseParts(Request.java:2587) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.Request.getParts(Request.java:2487) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.RequestFacade.getParts(RequestFacade.java:773) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.parseRequest(StandardMultipartHttpServletRequest.java:93) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.<init>(StandardMultipartHttpServletRequest.java:86) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.multipart.support.StandardServletMultipartResolver.resolveMultipart(StandardServletMultipartResolver.java:112) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.checkMultipart(DispatcherServlet.java:1227) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+
+2024-07-16T22:19:21.580+01:00  INFO 201072 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Starting FinalApplication using Java 17.0.11 with PID 201072 (C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread\target\classes started by ahmed in C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread)
+2024-07-16T22:19:21.580+01:00  INFO 201072 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-07-16T22:19:21.673+01:00  INFO 201072 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-16T22:19:21.674+01:00  INFO 201072 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-16T22:19:22.782+01:00  INFO 201072 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2024-07-16T22:19:22.793+01:00  INFO 201072 --- [final] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-16T22:19:22.794+01:00  INFO 201072 --- [final] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-16T22:19:22.842+01:00  INFO 201072 --- [final] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-16T22:19:22.842+01:00  INFO 201072 --- [final] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1167 ms
+2024-07-16T22:19:22.955+01:00  INFO 201072 --- [final] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-07-16T22:19:23.211+01:00  INFO 201072 --- [final] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-16T22:19:23.241+01:00  INFO 201072 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path '/'
+2024-07-16T22:19:23.249+01:00  INFO 201072 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Started FinalApplication in 2.14 seconds (process running for 3.06)
+2024-07-16T22:19:47.951+01:00  INFO 201072 --- [final] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-16T22:19:47.952+01:00  INFO 201072 --- [final] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-16T22:19:47.952+01:00  INFO 201072 --- [final] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-07-16T22:20:11.950+01:00  WARN 201072 --- [final] [http-nio-8081-exec-4] com.github.fommil.netlib.ARPACK          : Failed to load implementation from: com.github.fommil.netlib.NativeSystemARPACK
+2024-07-16T22:20:12.165+01:00  INFO 201072 --- [final] [http-nio-8081-exec-4] com.github.fommil.jni.JniLoader          : successfully loaded C:\Users\ahmed\AppData\Local\Temp\jniloader11255981898252395419netlib-native_ref-win-x86_64.dll
+2024-07-16T23:10:03.763+01:00  INFO 16160 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Starting FinalApplication using Java 17.0.11 with PID 16160 (C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread\target\classes started by ahmed in C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread)
+2024-07-16T23:10:03.766+01:00  INFO 16160 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-07-16T23:10:03.807+01:00  INFO 16160 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-16T23:10:03.807+01:00  INFO 16160 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-16T23:10:04.587+01:00  INFO 16160 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2024-07-16T23:10:04.597+01:00  INFO 16160 --- [final] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-16T23:10:04.598+01:00  INFO 16160 --- [final] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-16T23:10:04.639+01:00  INFO 16160 --- [final] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-16T23:10:04.639+01:00  INFO 16160 --- [final] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 832 ms
+2024-07-16T23:10:04.733+01:00  INFO 16160 --- [final] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-07-16T23:10:04.945+01:00  INFO 16160 --- [final] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-16T23:10:04.969+01:00  INFO 16160 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path '/'
+2024-07-16T23:10:04.976+01:00  INFO 16160 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Started FinalApplication in 1.539 seconds (process running for 2.313)
+2024-07-16T23:10:16.143+01:00  INFO 16160 --- [final] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-16T23:10:16.143+01:00  INFO 16160 --- [final] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-16T23:10:16.143+01:00  INFO 16160 --- [final] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-07-16T23:10:44.176+01:00  WARN 16160 --- [final] [http-nio-8081-exec-4] com.github.fommil.netlib.ARPACK          : Failed to load implementation from: com.github.fommil.netlib.NativeSystemARPACK
+2024-07-16T23:10:44.317+01:00  INFO 16160 --- [final] [http-nio-8081-exec-4] com.github.fommil.jni.JniLoader          : successfully loaded C:\Users\ahmed\AppData\Local\Temp\jniloader12240756117749194469netlib-native_ref-win-x86_64.dll
+2024-07-16T23:19:18.526+01:00  INFO 35712 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Starting FinalApplication using Java 17.0.11 with PID 35712 (C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread\target\classes started by ahmed in C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread)
+2024-07-16T23:19:18.529+01:00  INFO 35712 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-07-16T23:19:18.579+01:00  INFO 35712 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-16T23:19:18.579+01:00  INFO 35712 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-16T23:19:19.197+01:00  INFO 35712 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2024-07-16T23:19:19.205+01:00  INFO 35712 --- [final] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-16T23:19:19.205+01:00  INFO 35712 --- [final] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-16T23:19:19.240+01:00  INFO 35712 --- [final] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-16T23:19:19.241+01:00  INFO 35712 --- [final] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 661 ms
+2024-07-16T23:19:19.319+01:00  INFO 35712 --- [final] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-07-16T23:19:19.586+01:00  WARN 35712 --- [final] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-07-16T23:19:19.602+01:00  WARN 35712 --- [final] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-16T23:19:19.617+01:00  INFO 35712 --- [final] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-16T23:19:19.656+01:00 ERROR 35712 --- [final] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
+2024-07-16T23:19:35.492+01:00  INFO 25176 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : Starting FinalApplication using Java 17.0.11 with PID 25176 (C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread\target\classes started by ahmed in C:\Users\ahmed\OneDrive\Bureau\SEPROJET\securite-urbaine\final SE\final thread)
+2024-07-16T23:19:35.500+01:00  INFO 25176 --- [final] [restartedMain] com.securite.urbaine.FinalApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-07-16T23:19:35.597+01:00  INFO 25176 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-16T23:19:35.598+01:00  INFO 25176 --- [final] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-16T23:19:36.666+01:00  INFO 25176 --- [final] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2024-07-16T23:19:36.682+01:00  INFO 25176 --- [final] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-16T23:19:36.682+01:00  INFO 25176 --- [final] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-16T23:19:36.746+01:00  INFO 25176 --- [final] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-16T23:19:36.746+01:00  INFO 25176 --- [final] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1148 ms
+2024-07-16T23:19:36.853+01:00  INFO 25176 --- [final] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-07-16T23:19:37.293+01:00  WARN 25176 --- [final] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-07-16T23:19:37.313+01:00  WARN 25176 --- [final] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-16T23:19:37.327+01:00  INFO 25176 --- [final] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-16T23:19:37.346+01:00 ERROR 25176 --- [final] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
