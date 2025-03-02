@@ -1,3 +1,16 @@
+# SE Project: Integrating Multithreading into Weka for Machine Learning
+
+## Description
+
+The **SE** project aims to integrate multithreading into machine learning applications using the Weka library. By focusing on algorithms such as J48 for decision trees, this project seeks to enhance processing performance by leveraging the parallelism offered by multithreading. Additionally, the implementation of the Producer-Consumer model with semaphores is utilized to efficiently manage synchronization among different threads.
+
+## Features
+
+- **Multithreading Integration**: Enhances the performance of machine learning algorithms by enabling parallel task execution.
+- **J48 Implementation**: Utilizes the J48 algorithm for decision tree-based classification.
+- **Producer-Consumer Model**: Efficiently manages shared resources between producer and consumer threads using semaphores.
+- **Large Dataset Processing**: Optimizes the handling of large data volumes for faster and more efficient analysis.
+
 # Projet SE : Intégration du Multithreading dans Weka pour l'Apprentissage Automatique
 
 ## Description
@@ -13,43 +26,7 @@ De plus, l'implémentation du modèle Producteur-Consommateur avec des sémaphor
 - **Modèle Producteur-Consommateur** : Gestion efficace des ressources partagées entre les threads producteurs et consommateurs à l'aide de sémaphores.
 - **Traitement de Grands Ensembles de Données** : Optimisation du traitement de grands volumes de données pour une analyse plus rapide et efficace.
 
-## Prérequis
-
-- **Java** : Version 8 ou supérieure.
-- **Weka** : Version 3.8 ou supérieure.
-- **Bibliothèques Supplémentaires** : Aucune.
-
-## Installation
-
-1. **Cloner le Dépôt** :
-
-   ```bash
-   git clone https://github.com/ahmedbahriesprit/SE.git
 
 
-# SE Project: Integrating Multithreading into Weka for Machine Learning
 
-## Description
-
-The **SE** project aims to integrate multithreading into machine learning applications using the Weka library. By focusing on algorithms such as J48 for decision trees, this project seeks to enhance processing performance by leveraging the parallelism offered by multithreading. Additionally, the implementation of the Producer-Consumer model with semaphores is utilized to efficiently manage synchronization among different threads.
-
-## Features
-
-- **Multithreading Integration**: Enhances the performance of machine learning algorithms by enabling parallel task execution.
-- **J48 Implementation**: Utilizes the J48 algorithm for decision tree-based classification.
-- **Producer-Consumer Model**: Efficiently manages shared resources between producer and consumer threads using semaphores.
-- **Large Dataset Processing**: Optimizes the handling of large data volumes for faster and more efficient analysis.
-
-## Prerequisites
-
-- **Java**: Version 8 or higher.
-- **Weka**: Version 3.8 or higher.
-- **Additional Libraries**: None.
-
-## Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/ahmedbahriesprit/SE.git
 
