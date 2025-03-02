@@ -12,8 +12,8 @@ The **SE** project aims to integrate multithreading into machine learning applic
 - **Large Dataset Processing**: Optimizes the handling of large data volumes for faster and more efficient analysis.
 
 ## Demo Videos
-- [part 1: ]([insert YouTube link 1 here](https://youtu.be/Q_-Xmo5FVmc))  
-- [part 2: ]([insert YouTube link 2 here](https://youtu.be/qBNwCUQ61t0))
+- [part 1: ]([https://youtu.be/Q_-Xmo5FVmc](https://youtu.be/Q_-Xmo5FVmc))  
+- [part 2: ]([https://youtu.be/qBNwCUQ61t0](https://youtu.be/qBNwCUQ61t0))
 
 # Projet SE : Intégration du Multithreading dans Weka pour l'Apprentissage Automatique
 
@@ -31,6 +31,6 @@ De plus, l'implémentation du modèle Producteur-Consommateur avec des sémaphor
 - **Traitement de Grands Ensembles de Données** : Optimisation du traitement de grands volumes de données pour une analyse plus rapide et efficace.
 
 ## Vidéos Démo
-- [part 1: ]([insert YouTube link 1 here](https://youtu.be/Q_-Xmo5FVmc))  
-- [part 2: ]([insert YouTube link 2 here](https://youtu.be/qBNwCUQ61t0))
+- [part 1: ]([https://youtu.be/Q_-Xmo5FVmc](https://youtu.be/Q_-Xmo5FVmc))  
+- [part 2: ]([https://youtu.be/qBNwCUQ61t0](https://youtu.be/qBNwCUQ61t0))
 
